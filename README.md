@@ -28,6 +28,7 @@ This project analyzes food ordering behavior using Tableau.
   <img width="749" height="722" alt="Screenshot 2026-07-05 at 8 59 23 PM" src="https://github.com/user-attachments/assets/a6c444c5-f976-4da8-8a11-a7388e46bbfe" />
 
 - Revenue by Cuisine
+  
   <img width="197" height="165" alt="Screenshot 2026-07-05 at 8 59 36 PM" src="https://github.com/user-attachments/assets/dd5d1a53-71b1-4cf4-878c-86470bdd65f6" />
 
 - Orders by Meal Type
