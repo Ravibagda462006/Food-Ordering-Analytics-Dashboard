@@ -37,6 +37,7 @@ This project analyzes food ordering behavior using Tableau.
 - Customer Age Distribution
 
 <img width="604" height="421" alt="Screenshot 2026-07-05 at 4 58 22 PM" src="https://github.com/user-attachments/assets/8d39e740-2936-4920-aee7-8e296746ab6f" />
+
 ## Tools Used
 
 - Tableau Public
