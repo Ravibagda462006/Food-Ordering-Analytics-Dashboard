@@ -45,7 +45,8 @@ Food Ordering Behavior Dataset
 
 ## Dashboard Preview
 
-<img width="652" height="806" alt="Screenshot 2026-07-05 at 4 56 31 PM" src="https://github.com/user-attachments/assets/28ece674-849d-461e-a5d9-c260a59e570c" />
+<img width="1460" height="951" alt="Screenshot 2026-07-05 at 5 39 59 PM" src="https://github.com/user-attachments/assets/4f33e904-9288-478c-8a54-8ba24cca963c" />
+
 
 ## Author
 
