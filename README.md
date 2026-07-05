@@ -1,3 +1,4 @@
+
 # Food Ordering Analytics Dashboard
 
 ## Project Overview
@@ -33,7 +34,7 @@ Food Ordering Behavior Dataset
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here)
+<img width="652" height="806" alt="Screenshot 2026-07-05 at 4 56 31 PM" src="https://github.com/user-attachments/assets/28ece674-849d-461e-a5d9-c260a59e570c" />
 
 ## Author
 
