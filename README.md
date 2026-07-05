@@ -16,7 +16,8 @@ This project analyzes food ordering behavior using Tableau.
 
 - Orders by City
 
-  <img width="617" height="441" alt="Screenshot 2026-07-05 at 5 03 22 PM" src="https://github.com/user-attachments/assets/d4646299-3bc9-4290-8f8c-3bb331ed5839" />
+ <img width="608" height="448" alt="Screenshot 2026-07-05 at 5 07 50 PM" src="https://github.com/user-attachments/assets/970636cc-3d4d-49c5-8991-ba735f475c3d" />
+
 
 - Revenue by City
 - Orders by Cuisine
