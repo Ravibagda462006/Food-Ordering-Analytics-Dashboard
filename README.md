@@ -1,5 +1,6 @@
 
 # Food Ordering Analytics Dashboard
+<img width="1456" height="945" alt="Screenshot 2026-07-05 at 9 05 16 PM" src="https://github.com/user-attachments/assets/f1804f7b-b7f1-4f8b-821b-55b189f5ffe9" />
 
 ## Project Overview
 
