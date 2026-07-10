@@ -6,6 +6,8 @@
 
 This project analyzes food ordering behavior using Tableau.
 
+This project focuses on uncovering the key factors that influence housing prices and sales trends by analyzing a comprehensive dataset of food ordering behavior.
+
 ### Dashboard KPIs
 
 - Total Orders
@@ -53,10 +55,15 @@ Food Ordering Behavior Dataset
 
 <img width="1456" height="945" alt="Screenshot 2026-07-05 at 9 05 16 PM" src="https://github.com/user-attachments/assets/f1804f7b-b7f1-4f8b-821b-55b189f5ffe9" />
 
-
+## Use Links
+- Github Repo: [GitHub Repository](https://github.com/Ravibagda462006/Food-Ordering-Analytics-Dashboard)
+- Tableau Public Profile: [View Tableau Public Profile](https://public.tableau.com/app/profile/ravi.sharms/vizzes)
+- Tableau Dashboard: [View Dashboard](https://public.tableau.com/app/profile/ravi.sharms/viz/Food_Ordering_dashboard/Dashboard1)
+- Tableau Story: [View Story](https://public.tableau.com/app/profile/ravi.sharms/viz/Food_Ordering_Story/Dashboard1)
+- Demo Video:
 ## Author
 
-Ravi Sharma,
-Rudra Pratap Singh NARUKA, 
-Kartik Gupta, 
-Devid goyal
+- Ravi Sharma
+- Rudra Pratap Singh NARUKA 
+- Kartik Gupta
+- Devid goyal
