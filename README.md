@@ -57,8 +57,8 @@ Food Ordering Behavior Dataset
 
 ## Use Links
 - Github repo:
-- Tableau Dashboard:
-- Tableau Story:
+- Tableau Dashboard: [View Dashboard](https://public.tableau.com/app/profile/ravi.sharms/viz/Food_Ordering_dashboard/Dashboard1)
+- Tableau Story: [View Story](https://public.tableau.com/app/profile/ravi.sharms/viz/Food_Ordering_Story/Dashboard1)
 - Demo Video:
 ## Author
 
