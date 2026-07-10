@@ -62,7 +62,7 @@ Food Ordering Behavior Dataset
 - Demo Video:
 ## Author
 
-Ravi Sharma,
-Rudra Pratap Singh NARUKA, 
-Kartik Gupta, 
-Devid goyal
+- Ravi Sharma
+- Rudra Pratap Singh NARUKA 
+- Kartik Gupta
+- Devid goyal
