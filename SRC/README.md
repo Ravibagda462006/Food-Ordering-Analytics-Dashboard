@@ -2,11 +2,11 @@
 
 A premium, highly responsive data analytics portfolio website that showcases the findings and interactive Tableau visuals for the **Food Ordering Behaviour and Customer Trends** project. Designed with a dark theme, modern typography, glassmorphism card layouts, and smooth micro-interactions.
 
-Live Demo Link: *[Insert your GitHub Pages URL here once deployed]*
+Live Demo Link: https://drive.google.com/file/d/19gJaq68N7qaY1Ppd8yp1u0NLHe8BewtC/view?usp=drive_link
 
 ## Project Overview
 
-This project analyzes transactional data from on-demand food delivery platforms to evaluate customer demand cycles, logistics timelines, courier distribution profiles, and regional trends. The analysis combines data preparation in Python (Pandas, NumPy) and SQL, culminating in interactive Tableau visualizations.
+This project analyzes transactional data  food delivery platforms to evaluate customer demand cycles, logistics timelines, courier distribution profiles, and regional trends. The analysis combines data preparation in Python (Pandas, NumPy) and SQL, culminating in interactive Tableau visualizations.
 
 ## Key Project Features
 
