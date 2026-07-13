@@ -42,4 +42,3 @@ Food-Ordering-Analytics-Dashboard/
 │
 └── README.md                   # Technical repository documentation
 ```
-
