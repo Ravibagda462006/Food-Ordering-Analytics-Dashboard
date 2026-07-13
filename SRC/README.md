@@ -43,32 +43,3 @@ Food-Ordering-Analytics-Dashboard/
 └── README.md                   # Technical repository documentation
 ```
 
-## How to Integrate Your Tableau Embed Code
-
-To embed your finished Tableau Dashboard and Story:
-
-1. **Get the Embed Code:**
-   - Go to your published dashboard on Tableau Public or Tableau Cloud.
-   - Click the **Share** button in the toolbar.
-   - Copy the **Embed Code** HTML snippet.
-
-2. **Paste in Dashboard Page:**
-   - Open `dashboard.html` in your code editor.
-   - Find the `<div class="embed-inner">` container.
-   - Replace the placeholder `<div class="tableau-placeholder-visual">...</div>` with your copied Tableau embed snippet.
-
-3. **Paste in Story Page:**
-   - Open `story.html` in your code editor.
-   - Find the `<div class="embed-inner">` container.
-   - Replace the placeholder `<div class="tableau-placeholder-visual">...</div>` with your copied Tableau Story embed snippet.
-
-## Deploying to GitHub Pages
-
-This portfolio is built using static HTML, CSS, and JS, making it fully ready for direct deployment on GitHub Pages:
-
-1. Create a repository on GitHub named `Food-Ordering-Analytics-Dashboard`.
-2. Commit and push all files to your repository's default branch (e.g. `main`).
-3. Navigate to **Settings** -> **Pages** in your repository's GitHub menu.
-4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Choose your branch (usually `main`) and folder (`/ (root)`), then click **Save**.
-6. GitHub will generate a deployment URL for your portfolio within a few minutes.
