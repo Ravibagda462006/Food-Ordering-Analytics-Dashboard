@@ -1,0 +1,101 @@
+order_id,user_id,age,city,order_time,day_type,cuisine,meal_type,restaurant_type,order_value,discount_applied,delivery_fee,time_taken_to_order,rating_given,is_repeat_order,mood,hunger_level,company,rainy_weather
+1,2698,35,Pune,Evening,Weekend,Chinese,Dinner,Premium,971,Yes,90,13,1,Yes,Celebrating,High,Partner,No
+2,3237,44,Mumbai,Night,Weekend,South Indian,Dinner,Budget,442,No,26,13,2,No,Lazy,Low,Family,No
+3,3626,31,Delhi,Morning,Weekend,Biryani,Breakfast,Mid-range,739,Yes,85,10,2,Yes,Happy,Medium,Friends,No
+4,3176,23,Delhi,Evening,Weekend,Biryani,Snacks,Mid-range,466,No,44,12,2,No,Happy,Medium,Alone,No
+5,4824,26,Chandigarh,Morning,Weekday,Chinese,Lunch,Premium,927,Yes,58,13,2,No,Happy,Medium,Partner,Yes
+6,2854,33,Mumbai,Afternoon,Weekend,Biryani,Dinner,Budget,207,No,42,1,1,No,Stressed,High,Partner,No
+7,3019,33,Bangalore,Evening,Weekday,Chinese,Lunch,Budget,565,No,28,1,4,Yes,Stressed,Low,Alone,No
+8,1505,24,Mumbai,Evening,Weekday,Fast Food,Lunch,Budget,598,Yes,51,10,2,Yes,Happy,Medium,Partner,Yes
+9,3157,37,Mumbai,Night,Weekend,North Indian,Breakfast,Mid-range,469,No,29,8,3,Yes,Celebrating,Medium,Friends,No
+10,1704,21,Pune,Afternoon,Weekday,Biryani,Dinner,Mid-range,549,No,51,6,2,Yes,Lazy,Medium,Alone,Yes
+11,3729,27,Mumbai,Morning,Weekend,Desserts,Snacks,Premium,857,Yes,34,10,1,Yes,Lazy,Medium,Family,Yes
+12,1058,23,Bangalore,Evening,Weekend,Desserts,Snacks,Budget,982,Yes,60,6,5,Yes,Happy,High,Alone,No
+13,2432,25,Mumbai,Afternoon,Weekday,Biryani,Breakfast,Premium,319,Yes,20,11,3,Yes,Stressed,High,Partner,Yes
+14,1428,37,Chandigarh,Night,Weekday,North Indian,Lunch,Mid-range,439,No,62,7,3,Yes,Lazy,Low,Partner,Yes
+15,2465,30,Hyderabad,Morning,Weekday,Biryani,Dinner,Budget,470,Yes,42,5,5,Yes,Happy,High,Family,Yes
+16,2060,34,Chandigarh,Afternoon,Weekend,South Indian,Dinner,Premium,465,No,20,12,4,Yes,Happy,High,Friends,No
+17,3892,29,Chandigarh,Night,Weekend,Fast Food,Dinner,Premium,644,Yes,62,14,1,No,Lazy,Low,Friends,No
+18,4600,31,Bangalore,Evening,Weekend,South Indian,Snacks,Premium,310,Yes,29,12,2,Yes,Stressed,Low,Partner,Yes
+19,1747,20,Mumbai,Night,Weekday,Desserts,Breakfast,Budget,547,No,87,10,5,Yes,Lazy,Low,Family,Yes
+20,1619,36,Mumbai,Afternoon,Weekend,Desserts,Dinner,Mid-range,117,Yes,62,13,5,Yes,Happy,Low,Partner,Yes
+21,4797,42,Delhi,Evening,Weekday,Fast Food,Breakfast,Premium,832,Yes,68,10,4,No,Stressed,High,Partner,Yes
+22,2030,36,Mumbai,Morning,Weekend,Chinese,Snacks,Budget,641,Yes,55,1,5,Yes,Lazy,Low,Alone,No
+23,3537,27,Pune,Evening,Weekend,South Indian,Snacks,Mid-range,100,Yes,44,13,4,Yes,Celebrating,Low,Partner,Yes
+24,3026,38,Bangalore,Evening,Weekday,Biryani,Breakfast,Mid-range,704,Yes,31,1,4,No,Celebrating,Medium,Partner,No
+25,1542,44,Mumbai,Evening,Weekday,Fast Food,Breakfast,Mid-range,591,Yes,79,5,5,Yes,Lazy,Low,Friends,No
+26,1501,20,Chandigarh,Evening,Weekend,South Indian,Breakfast,Mid-range,607,No,26,13,3,No,Lazy,Low,Family,Yes
+27,2684,27,Mumbai,Morning,Weekday,Chinese,Breakfast,Premium,498,No,98,2,4,No,Lazy,Low,Alone,Yes
+28,4203,25,Pune,Afternoon,Weekend,Chinese,Lunch,Mid-range,777,No,20,1,2,No,Celebrating,High,Alone,No
+29,3245,28,Delhi,Evening,Weekend,Chinese,Breakfast,Mid-range,427,No,31,7,3,No,Celebrating,Medium,Family,No
+30,2329,27,Bangalore,Night,Weekend,Desserts,Snacks,Mid-range,241,No,55,12,1,Yes,Lazy,Medium,Partner,No
+31,4832,42,Mumbai,Afternoon,Weekday,Biryani,Snacks,Premium,844,No,78,9,5,No,Lazy,Medium,Partner,No
+32,3450,44,Bangalore,Night,Weekday,South Indian,Dinner,Budget,141,Yes,36,10,1,Yes,Celebrating,High,Family,No
+33,1575,18,Bangalore,Night,Weekend,Fast Food,Snacks,Premium,476,No,99,3,1,Yes,Celebrating,High,Partner,Yes
+34,4000,30,Bangalore,Afternoon,Weekday,North Indian,Dinner,Budget,690,Yes,24,13,4,No,Stressed,Low,Friends,No
+35,4046,28,Delhi,Night,Weekend,Desserts,Lunch,Mid-range,187,Yes,99,3,4,Yes,Stressed,Low,Partner,Yes
+36,3284,26,Chandigarh,Afternoon,Weekday,North Indian,Lunch,Premium,478,No,87,6,5,No,Happy,High,Family,Yes
+37,3107.725397,30.16666667,Pune,Evening,Weekend,Chinese,Dinner,Premium,431.3095238,Yes,61.72539683,6.550793651,3.874603175,Yes,Celebrating,High,Partner,No
+38,3118.186529,30.14414414,Mumbai,Night,Weekend,South Indian,Dinner,Budget,425.6190476,No,62.19103389,6.46044616,3.918876019,No,Lazy,Low,Family,No
+39,3128.647662,30.12162162,Delhi,Morning,Weekend,Biryani,Breakfast,Mid-range,419.9285714,Yes,62.65667096,6.37009867,3.963148863,Yes,Happy,Medium,Friends,No
+40,3139.108795,30.0990991,Delhi,Evening,Weekend,Biryani,Snacks,Mid-range,414.2380952,No,63.12230802,6.27975118,4.007421707,No,Happy,Medium,Alone,No
+41,3149.569927,30.07657658,Chandigarh,Morning,Weekday,Chinese,Lunch,Premium,408.547619,Yes,63.58794509,6.189403689,4.051694552,No,Happy,Medium,Partner,Yes
+42,3160.03106,30.05405405,Mumbai,Afternoon,Weekend,Biryani,Dinner,Budget,402.8571429,No,64.05358215,6.099056199,4.095967396,No,Stressed,High,Partner,No
+43,3170.492192,30.03153153,Bangalore,Evening,Weekday,Chinese,Lunch,Budget,397.1666667,No,64.51921922,6.008708709,4.14024024,Yes,Stressed,Low,Alone,No
+44,3180.953325,30.00900901,Mumbai,Evening,Weekday,Fast Food,Lunch,Budget,391.4761905,Yes,64.98485628,5.918361218,4.184513085,Yes,Happy,Medium,Partner,Yes
+45,3191.414457,29.98648649,Mumbai,Night,Weekend,North Indian,Breakfast,Mid-range,385.7857143,No,65.45049335,5.828013728,4.228785929,Yes,Celebrating,Medium,Friends,No
+46,3201.87559,29.96396396,Pune,Afternoon,Weekday,Biryani,Dinner,Mid-range,380.0952381,No,65.91613042,5.737666238,4.273058773,Yes,Lazy,Medium,Alone,Yes
+47,3212.336722,29.94144144,Mumbai,Morning,Weekend,Desserts,Snacks,Premium,374.4047619,Yes,66.38176748,5.647318747,4.317331617,Yes,Lazy,Medium,Family,Yes
+48,3222.797855,29.91891892,Bangalore,Evening,Weekend,Desserts,Snacks,Budget,368.7142857,Yes,66.84740455,5.556971257,4.361604462,Yes,Happy,High,Alone,No
+49,3233.258988,29.8963964,Mumbai,Afternoon,Weekday,Biryani,Breakfast,Premium,363.0238095,Yes,67.31304161,5.466623767,4.405877306,Yes,Stressed,High,Partner,Yes
+50,3243.72012,29.87387387,Chandigarh,Night,Weekday,North Indian,Lunch,Mid-range,357.3333333,No,67.77867868,5.376276276,4.45015015,Yes,Lazy,Low,Partner,Yes
+51,3254.181253,29.85135135,Hyderabad,Morning,Weekday,Biryani,Dinner,Budget,351.6428571,Yes,68.24431574,5.285928786,4.494422994,Yes,Happy,High,Family,Yes
+52,3264.642385,29.82882883,Chandigarh,Afternoon,Weekend,South Indian,Dinner,Premium,345.952381,No,68.70995281,5.195581296,4.538695839,Yes,Happy,High,Friends,No
+53,3275.103518,29.80630631,Chandigarh,Night,Weekend,Fast Food,Dinner,Premium,340.2619048,Yes,69.17558988,5.105233805,4.582968683,No,Lazy,Low,Friends,No
+54,3285.56465,29.78378378,Bangalore,Evening,Weekend,South Indian,Snacks,Premium,334.5714286,Yes,69.64122694,5.014886315,4.627241527,Yes,Stressed,Low,Partner,Yes
+55,3296.025783,29.76126126,Mumbai,Night,Weekday,Desserts,Breakfast,Budget,328.8809524,No,70.10686401,4.924538825,4.671514372,Yes,Lazy,Low,Family,Yes
+56,3306.486915,29.73873874,Mumbai,Afternoon,Weekend,Desserts,Dinner,Mid-range,323.1904762,Yes,70.57250107,4.834191334,4.715787216,Yes,Happy,Low,Partner,Yes
+57,3316.948048,29.71621622,Delhi,Evening,Weekday,Fast Food,Breakfast,Premium,317.5,Yes,71.03813814,4.743843844,4.76006006,No,Stressed,High,Partner,Yes
+58,3327.409181,29.69369369,Mumbai,Morning,Weekend,Chinese,Snacks,Budget,311.8095238,Yes,71.5037752,4.653496353,4.804332904,Yes,Lazy,Low,Alone,No
+59,3337.870313,29.67117117,Pune,Evening,Weekend,South Indian,Snacks,Mid-range,306.1190476,Yes,71.96941227,4.563148863,4.848605749,Yes,Celebrating,Low,Partner,Yes
+60,3348.331446,29.64864865,Bangalore,Evening,Weekday,Biryani,Breakfast,Mid-range,300.4285714,Yes,72.43504934,4.472801373,4.892878593,No,Celebrating,Medium,Partner,No
+61,3358.792578,29.62612613,Mumbai,Evening,Weekday,Fast Food,Breakfast,Mid-range,294.7380952,Yes,72.9006864,4.382453882,4.937151437,Yes,Lazy,Low,Friends,No
+62,3369.253711,29.6036036,Chandigarh,Evening,Weekend,South Indian,Breakfast,Mid-range,289.047619,No,73.36632347,4.292106392,4.981424281,No,Lazy,Low,Family,Yes
+63,3379.714843,29.58108108,Mumbai,Morning,Weekday,Chinese,Breakfast,Premium,283.3571429,No,73.83196053,4.201758902,5.025697126,No,Lazy,Low,Alone,Yes
+64,3390.175976,29.55855856,Pune,Afternoon,Weekend,Chinese,Lunch,Mid-range,277.6666667,No,74.2975976,4.111411411,5.06996997,No,Celebrating,High,Alone,No
+65,3400.637109,29.53603604,Delhi,Evening,Weekend,Chinese,Breakfast,Mid-range,271.9761905,No,74.76323466,4.021063921,5.114242814,No,Celebrating,Medium,Family,No
+66,3411.098241,29.51351351,Bangalore,Night,Weekend,Desserts,Snacks,Mid-range,266.2857143,No,75.22887173,3.930716431,5.158515659,Yes,Lazy,Medium,Partner,No
+67,3421.559374,29.49099099,Mumbai,Afternoon,Weekday,Biryani,Snacks,Premium,260.5952381,No,75.69450879,3.84036894,5.202788503,No,Lazy,Medium,Partner,No
+68,3432.020506,29.46846847,Bangalore,Night,Weekday,South Indian,Dinner,Budget,254.9047619,Yes,76.16014586,3.75002145,5.247061347,Yes,Celebrating,High,Family,No
+69,3442.481639,29.44594595,Bangalore,Night,Weekend,Fast Food,Snacks,Premium,249.2142857,No,76.62578293,3.65967396,5.291334191,Yes,Celebrating,High,Partner,Yes
+70,3452.942771,29.42342342,Bangalore,Afternoon,Weekday,North Indian,Dinner,Budget,243.5238095,Yes,77.09141999,3.569326469,5.335607036,No,Stressed,Low,Friends,No
+71,3463.403904,29.4009009,Delhi,Night,Weekend,Desserts,Lunch,Mid-range,237.8333333,Yes,77.55705706,3.478978979,5.37987988,Yes,Stressed,Low,Partner,Yes
+72,3473.865036,29.37837838,Chandigarh,Afternoon,Weekday,North Indian,Lunch,Premium,232.1428571,No,78.02269412,3.388631489,5.424152724,No,Happy,High,Family,Yes
+73,3484.326169,29.35585586,Pune,Evening,Weekend,Chinese,Dinner,Premium,226.452381,Yes,78.48833119,3.298283998,5.468425568,Yes,Celebrating,High,Partner,No
+74,3494.787302,29.33333333,Mumbai,Night,Weekend,South Indian,Dinner,Budget,220.7619048,No,78.95396825,3.207936508,5.512698413,No,Lazy,Low,Family,No
+75,3505.248434,29.31081081,Delhi,Morning,Weekend,Biryani,Breakfast,Mid-range,215.0714286,Yes,79.41960532,3.117589018,5.556971257,Yes,Happy,Medium,Friends,No
+76,3515.709567,29.28828829,Delhi,Evening,Weekend,Biryani,Snacks,Mid-range,209.3809524,No,79.88524239,3.027241527,5.601244101,No,Happy,Medium,Alone,No
+77,3526.170699,29.26576577,Chandigarh,Morning,Weekday,Chinese,Lunch,Premium,203.6904762,Yes,80.35087945,2.936894037,5.645516946,No,Happy,Medium,Partner,Yes
+78,3536.631832,29.24324324,Mumbai,Afternoon,Weekend,Biryani,Dinner,Budget,198,No,80.81651652,2.846546547,5.68978979,No,Stressed,High,Partner,No
+79,3547.092964,29.22072072,Bangalore,Evening,Weekday,Chinese,Lunch,Budget,192.3095238,No,81.28215358,2.756199056,5.734062634,Yes,Stressed,Low,Alone,No
+80,3557.554097,29.1981982,Mumbai,Evening,Weekday,Fast Food,Lunch,Budget,186.6190476,Yes,81.74779065,2.665851566,5.778335478,Yes,Happy,Medium,Partner,Yes
+81,3568.01523,29.17567568,Mumbai,Night,Weekend,North Indian,Breakfast,Mid-range,180.9285714,No,82.21342771,2.575504076,5.822608323,Yes,Celebrating,Medium,Friends,No
+82,3578.476362,29.15315315,Pune,Afternoon,Weekday,Biryani,Dinner,Mid-range,175.2380952,No,82.67906478,2.485156585,5.866881167,Yes,Lazy,Medium,Alone,Yes
+83,3588.937495,29.13063063,Mumbai,Morning,Weekend,Desserts,Snacks,Premium,169.547619,Yes,83.14470184,2.394809095,5.911154011,Yes,Lazy,Medium,Family,Yes
+84,3599.398627,29.10810811,Bangalore,Evening,Weekend,Desserts,Snacks,Budget,163.8571429,Yes,83.61033891,2.304461604,5.955426855,Yes,Happy,High,Alone,No
+85,3609.85976,29.08558559,Mumbai,Afternoon,Weekday,Biryani,Breakfast,Premium,158.1666667,Yes,84.07597598,2.214114114,5.9996997,Yes,Stressed,High,Partner,Yes
+86,3620.320892,29.06306306,Chandigarh,Night,Weekday,North Indian,Lunch,Mid-range,152.4761905,No,84.54161304,2.123766624,6.043972544,Yes,Lazy,Low,Partner,Yes
+87,3630.782025,29.04054054,Hyderabad,Morning,Weekday,Biryani,Dinner,Budget,146.7857143,Yes,85.00725011,2.033419133,6.088245388,Yes,Happy,High,Family,Yes
+88,3641.243157,29.01801802,Chandigarh,Afternoon,Weekend,South Indian,Dinner,Premium,141.0952381,No,85.47288717,1.943071643,6.132518233,Yes,Happy,High,Friends,No
+89,3651.70429,28.9954955,Chandigarh,Night,Weekend,Fast Food,Dinner,Premium,135.4047619,Yes,85.93852424,1.852724153,6.176791077,No,Lazy,Low,Friends,No
+90,3662.165423,28.97297297,Bangalore,Evening,Weekend,South Indian,Snacks,Premium,129.7142857,Yes,86.4041613,1.762376662,6.221063921,Yes,Stressed,Low,Partner,Yes
+91,3672.626555,28.95045045,Mumbai,Night,Weekday,Desserts,Breakfast,Budget,124.0238095,No,86.86979837,1.672029172,6.265336765,Yes,Lazy,Low,Family,Yes
+92,3683.087688,28.92792793,Mumbai,Afternoon,Weekend,Desserts,Dinner,Mid-range,118.3333333,Yes,87.33543544,1.581681682,6.30960961,Yes,Happy,Low,Partner,Yes
+93,3693.54882,28.90540541,Delhi,Evening,Weekday,Fast Food,Breakfast,Premium,112.6428571,Yes,87.8010725,1.491334191,6.353882454,No,Stressed,High,Partner,Yes
+94,3704.009953,28.88288288,Mumbai,Morning,Weekend,Chinese,Snacks,Budget,106.952381,Yes,88.26670957,1.400986701,6.398155298,Yes,Lazy,Low,Alone,No
+95,3714.471085,28.86036036,Pune,Evening,Weekend,South Indian,Snacks,Mid-range,101.2619048,Yes,88.73234663,1.310639211,6.442428142,Yes,Celebrating,Low,Partner,Yes
+96,3724.932218,28.83783784,Bangalore,Evening,Weekday,Biryani,Breakfast,Mid-range,95.57142857,Yes,89.1979837,1.22029172,6.486700987,No,Celebrating,Medium,Partner,No
+97,3735.39335,28.81531532,Mumbai,Evening,Weekday,Fast Food,Breakfast,Mid-range,89.88095238,Yes,89.66362076,1.12994423,6.530973831,Yes,Lazy,Low,Friends,No
+98,3745.854483,28.79279279,Chandigarh,Evening,Weekend,South Indian,Breakfast,Mid-range,84.19047619,No,90.12925783,1.03959674,6.575246675,No,Lazy,Low,Family,Yes
+99,3756.315616,28.77027027,Mumbai,Morning,Weekday,Chinese,Breakfast,Premium,78.5,No,90.59489489,0.949249249,6.61951952,No,Lazy,Low,Alone,Yes
+100,3766.776748,28.74774775,Pune,Afternoon,Weekend,Chinese,Lunch,Mid-range,72.80952381,No,91.06053196,0.858901759,6.663792364,No,Celebrating,High,Alone,No
